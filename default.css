@@ -1,0 +1,34 @@
+body {
+	padding-top: 20px;
+}
+
+#profile {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#slogan {
+	font-size: 30px;
+	font-weight: bold;
+}
+
+#name {
+	font-size: 20px;
+	font-weight: bold;
+}
+
+/*#github {
+	color: #000000;
+}*/
+
+#clojure img {
+	margin-top: 45px;
+}
+
+img {
+	max-height: 200px;
+}
+
+.lfont {
+	font-size: 200px;
+}
