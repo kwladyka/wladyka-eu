@@ -24,7 +24,7 @@ img {
 }
 
 #slogan {
-	margin-bottom: 20px;
+	margin-bottom: 30px;
 	font-size: 20px;
 	font-weight: bold;
 }
@@ -37,11 +37,3 @@ img {
 #cto span {
 	font-size: 18px;
 }
-
-/*#github {
-	color: #000000;
-}*/
-
-/* #clojure img {
-	margin-top: 45px;
-} */
